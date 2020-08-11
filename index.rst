@@ -2,8 +2,8 @@
    sphinx-quickstart on Tue Aug 11 10:09:01 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-
-Welcome to PLACEMENT PREPARATION 2021's documentation!
+   
+PLACEMENT PREPARATION 2021!
 ======================================================
 
 .. toctree::
