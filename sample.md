@@ -2,7 +2,9 @@
 
 
 # CAPGEMINI
+- [2021 SYLLABUS](https://drive.google.com/file/d/1hKrBBS4ghMtdKdPBKTWG1ovjye7qnoUl/view?usp=sharing)
 - [pseudocodes by prepinsta](https://prepinsta.com/capgemini-pseudo-code-round-mcq/)
+- [some other resources](https://drive.google.com/folderview?id=1K9WddD5IigS2cYCbESG6vvvMhrsWBmQa)
 - [study material by CodeofGeeks]( https://codeofgeeks.com/capgemini-archive/)
 # TCS NQT
 - [study material by CodeofGeeks](http://codeofgeeks.com/tcs-nqt-archive)
