@@ -6,6 +6,7 @@
 - [pseudocodes by prepinsta](https://prepinsta.com/capgemini-pseudo-code-round-mcq/)
 - [some other resources](https://drive.google.com/folderview?id=1K9WddD5IigS2cYCbESG6vvvMhrsWBmQa)
 - [study material by CodeofGeeks]( https://codeofgeeks.com/capgemini-archive/)
+- [Newly updated pseudocodes by COCUBES](https://drive.google.com/file/d/14FTnGQqmKxKd-AkkxSLiVXLjOaJY_fsW/view?usp=sharing)
 
 # TCS NQT
 - [study material by CodeofGeeks](http://codeofgeeks.com/tcs-nqt-archive)
