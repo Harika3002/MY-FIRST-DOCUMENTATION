@@ -7,6 +7,10 @@
 - [some other resources](https://drive.google.com/folderview?id=1K9WddD5IigS2cYCbESG6vvvMhrsWBmQa)
 - [study material by CodeofGeeks]( https://codeofgeeks.com/capgemini-archive/)
 - [Newly updated pseudocodes by COCUBES](https://drive.google.com/file/d/14FTnGQqmKxKd-AkkxSLiVXLjOaJY_fsW/view?usp=sharing)
+- [Material by prepinsta-previous years papers refer from page 12 for pseudocodes](https://drive.google.com/file/d/1DLxporFl4LYFgwmqeC0lVuQBMm4TaD3u/view?usp=sharing)
+- [Techinical Interview and Hr questions with tips and tricks](https://drive.google.com/file/d/1gPzP3yKtBEIENulwYKvp2vPs_kXsqADO/view?usp=sharing)
+- [pseudocodes c,c++,data structures more than 250 questions](https://drive.google.com/file/d/1-4fR5J0OWax-iQlN2QqUQKhHsTf-BC15/view?usp=sharing)
+- [puzzle type questions (pseudocodes)](https://drive.google.com/file/d/1LPazHbQ5pA3VJutind26YWi90J7hY_Cg/view?usp=sharing)
 
 # TCS NQT
 - [study material by CodeofGeeks](http://codeofgeeks.com/tcs-nqt-archive)
